@@ -1,2 +1,4 @@
 # it2a-databaze
-Uživatelské prostředí pro propojení s databází v C-sharpu a WPF
+<h2>9/3/2026</h2>
+Dnes se mi podařilo vytvořit:
+  Komplexní XAML
